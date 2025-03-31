@@ -12,7 +12,7 @@ Desejo seguir uma carreira voltada para esta area mas não excluo a possibilidad
 O site tem uma responsividade para que operar em varios tamanhos de tela e apresenta um layout armonico aos olhos.
 Detem informações superficiais e além da necessidade de demonstrar os conheciemntos voltados para a área de dados em paralelo demontra uma proficiencia de conhecimentos basicos em CSS E JavaScript, que foram as linguagens de programação utilizadas para desevolver o mesmo.
 
-[Clique aqui](https://fabio-erik.github.io/portifolio-web/#portfolio)
+[Clique aqui](https://fabio-erik.github.io/portifolio-web/)
 
 ## Ferramentas
 
